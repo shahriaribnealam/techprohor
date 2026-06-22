@@ -1,0 +1,61 @@
+@charset "utf-8";
+/*****
+* Theme Name: Tech Prohor WAP
+* Theme URI: https://wap.techprohor.com
+* Description: Tech Prohor is a Bangla language (Unicode based) information and technology blog, blogging website and open blogging platform where the latest updates, news and various tips and tricks related to information and technology are shared and anyone can write posts related to information and technology.
+* Author: Shahriar Ibne Alam
+* Author URI: https://www.shahriaribnelam.com
+* Version: 1.0
+*****/
+
+* {box-sizing: border-box;}
+body {background-color: #dcdee3; color: #000; font-size: 14px; margin: 8px; padding: 0; word-wrap: break-word; max-width: 100%;}
+img {vertical-align: middle; max-width: 100%;}
+a, a:link, a:visited {color: #e64946; text-decoration: none;}
+
+#bg {background-color: #fff; padding: 5px;}
+
+#header {background-color: #fff; text-align: center; padding: 25px; font-size: 20px; font-weight: bold; border: 1px solid #ddd;}
+#header span {font-size: 14px;}
+#nav-menu {background-color: #000; color: #ddd; text-align: center; border-bottom: 3px solid #e64946;}
+#nav-menu a {color: #fff; font-weight: bold; padding: 5px; display: inline-block;}
+#nav-menu a:hover {background-color: red;}
+
+.bgpn {text-align: center; margin: 2px 0 2px 0; display: none;}
+
+#heading {background-color: #008440; color: #fff; padding: 5px; border-bottom: 2px solid red !important; margin-top: 10px;}
+
+#heading h3 {text-align: center; font-size: 14px; margin: 0; padding: 0;}
+
+#post-updates, .catlists {background-color: #f5f5f5;}
+
+.post-updates {padding: 7px 5px; border-bottom: 1px solid #ebebeb;}
+
+#post-updates a {color: #000;}
+
+#post-updates a:hover {color: #e64946;}
+
+.post-updates:hover {background-color: #f0f0f0;}
+
+/*.post-updates a:before {content: url("/wp-content/themes/techprohor-wap/img/post.png"); margin-right: 5px;}*/
+.post-updates a:before {content: "»"; margin-right: 3px;}
+
+#page-numbers {background-color: #f5f5f5; text-align: center; padding: 7px 5px;}
+
+#page-numbers a {background-color: #e64946; color: #fff; padding: 5px 10px; display: inline-block; font-weight: bold;}
+
+#page-numbers a:hover {background-color: #000;}
+
+.catlists ul {list-style-type: none; margin: 0; padding: 0;}
+
+.catlists li {list-style-type: none; text-align: right; padding: 7px 5px; border-bottom: 1px solid #ebebeb;}
+
+.catlists li:hover {background-color: #f0f0f0;}
+
+.catlists li:after, .single-post:after {content: ""; clear: both; display: block; visibility: hidden; font-size: 0; line-height: 0; height:0; margin: 0; padding: 0;}
+
+.catlists li a {float: left; color: #000;}
+
+.catlists li a:before {content: "»"; margin-right: 3px;}
+
+#footer {background-color: #2a2a2a; color: #fff; text-align: center; border-top: 3px solid #999; padding: 5px;}
