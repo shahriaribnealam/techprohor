@@ -1,6 +1,6 @@
 # Tech Prohor (টেক প্রহর)
 
-**Tech Prohor (টেক প্রহর)** is a comprehensive technology blog, and open blogging platform in the Bengali language. It serves as a hub for the latest tech updates, tech news, tutorials, and tips & tricks. 
+**Tech Prohor (টেক প্রহর)** is a comprehensive information & technology blog, and open blogging platform in the Bengali language. It serves as a hub for the latest tech updates, tech news, tutorials, and tips & tricks. 
 
 ## ✨ Features
 * **Open Blogging Platform:** Allows anyone to register and share their knowledge about technology.
